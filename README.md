@@ -21,6 +21,5 @@ In this game, the player controls a character that moves forward in the air and 
 ## **Installation**
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/3D-Platformer-Game.git
+
 
